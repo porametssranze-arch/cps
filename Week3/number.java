@@ -7,5 +7,5 @@ void main (){
 
         int total = number1 + number2;
 
-        IO.println("Total number of number1 and number2.. = " + total + " quantity");
+        IO.println("Total number of number1 and number2 = " + total + " quantity");
 }
